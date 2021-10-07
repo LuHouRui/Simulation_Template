@@ -9,6 +9,7 @@ Average:
 
 all: topo simple Average
 	@echo "Done."
+	
 clean:
 	rm -f Topo.out Simple_Method.out Average.out
 	@echo "Clean."
