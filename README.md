@@ -52,6 +52,15 @@ WNDCLab Simulation Template
 ### Others
 *   makefile
 
+    建立環境的makefile
+*   figures/
+
+    放置README.md使用圖片的資料夾
+
+*   .vscode/
+
+    放置VScode編譯的設定檔案
+
 ##  完整實驗流程
 
 1.  編譯程式碼
